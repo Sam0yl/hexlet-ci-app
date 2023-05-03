@@ -16,4 +16,4 @@ jobs:
       - name: Run Snyk to check for vulnerabilities
         uses: snyk/actions/node@master
         env:
-          SNYK_TOKEN: ${{ 220be681-23ee-4c70-8abc-c0b3cb3640a9 }} 
+          SNYK_TOKEN: ${{220be681-23ee-4c70-8abc-c0b3cb3640a9}} 
